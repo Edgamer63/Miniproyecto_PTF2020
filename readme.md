@@ -1,4 +1,5 @@
-¡Atención, debes cambiar las credenciales para que funcione!
+¡Atención, debes cambiar las credenciales en ConnectionManager para que funcione!
+
 
 Para ejecutar el springboot desde cmd, debes:
 
